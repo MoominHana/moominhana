@@ -29,7 +29,7 @@ Currently exploring:
 
 ---
 
-## 📫 Connect With Me
+## 📫 How to reach me
 
 - LinkedIn: www.linkedin.com/in/bea-sollesta
 - Email: bclaire.sollesta04@gmail.com
