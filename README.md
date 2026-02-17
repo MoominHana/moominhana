@@ -1,6 +1,7 @@
 # Hi, I'm Bea Sollesta 👋
 
 🎓 Computer Science student | Full-Stack & AI/ML Enthusiast 
+
 🌱 Continuously building and exploring new technologies
 
 ---
